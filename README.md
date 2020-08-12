@@ -1,6 +1,6 @@
 # Static Dog Website
 
-This is a static website. Check the live version here: luccabb.github.io/static_website/
+This is a static website. Check the live version here: [luccabb.github.io/static_website/](luccabb.github.io/static_website/)
 
 ## Clone and Running locally
 
